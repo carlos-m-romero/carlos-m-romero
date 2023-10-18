@@ -7,12 +7,12 @@
   - [osTicket: Post-Installation Configuration](https://github.com/carlos-m-romero/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/carlos-m-romero/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JasonDelahoussaye/Configuring_On-premises_Active_Directory_within_Azure_VMs)
-  - [Building Intuition with DNS](https://github.com/JasonDelahoussaye/BuildingIntuitionWithDNS)
-  - [Network File Shares and Permissions](https://github.com/JasonDelahoussaye/NetworkFileSharesAndPermissions)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JasonDelahoussaye/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/carlos-m-romero/Configuring_On-premises_Active_Directory_within_Azure_VMs)
+  - [Building Intuition with DNS](https://github.com/carlos-m-romero/BuildingIntuitionWithDNS)
+  - [Network File Shares and Permissions](https://github.com/carlos-m-romero/NetworkFileSharesAndPermissions)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/carlos-m-romero/azure-network-protocols)
 - <b>Virtual Private Networks VPN's</b>
-  - [Set up of Proton VPN and Observing IP Address Changes](https://github.com/JasonDelahoussaye/Virtual_Private_Network_VPN_IP_Address_Observations)
+  - [Set up of Proton VPN and Observing IP Address Changes](https://github.com/carlos-m-romero/Virtual_Private_Network_VPN_IP_Address_Observations)
 
 <h2>🤳Connect with me:</h2>
 
